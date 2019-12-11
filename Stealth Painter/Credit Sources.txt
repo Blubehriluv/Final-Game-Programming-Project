@@ -1,0 +1,46 @@
+//Music_______________
+
+"Evasion" by Matthew Pablo
+https://opengameart.org/content/evasion
+
+
+
+//Sounds_______________
+
+SFX Player Action: Footstep by trullilulli
+https://freesound.org/people/trullilulli/sounds/422644/
+
+concrete footstep 2 by Yoyodaman234
+https://freesound.org/people/Yoyodaman234/sounds/166508/
+
+suck_pop_02.wav by joedeshon
+https://freesound.org/people/joedeshon/sounds/81151/
+
+Wet Splat by JustInvoke
+https://freesound.org/people/JustInvoke/sounds/446115/
+
+splat.wav by ipaghost
+https://freesound.org/people/ipaghost/sounds/335794/
+
+Error Bleep 4 by original_sound
+https://freesound.org/people/original_sound/sounds/372197/
+
+success.wav by maxmakessounds
+https://freesound.org/people/maxmakessounds/sounds/353546/
+
+Success.wav by kagateni
+https://freesound.org/people/kagateni/sounds/404358/
+
+Hurt_C_07 by cabled_mess
+https://freesound.org/people/cabled_mess/sounds/350926/
+
+8 bit Death sound by MentosLat
+https://freesound.org/people/MentosLat/sounds/417486/
+
+
+
+//Sprites______________
+
+Pipoya
+https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+https://pipoya.itch.io/pipoya-free-rpg-character-sprites-32x32
