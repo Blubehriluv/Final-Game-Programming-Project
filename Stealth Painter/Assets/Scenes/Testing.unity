@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 77854606}
   - component: {fileID: 77854605}
   - component: {fileID: 77854604}
-  - component: {fileID: 77854601}
+  - component: {fileID: 77854607}
   m_Layer: 0
   m_Name: Changed Floor
   m_TagString: Untagged
@@ -150,25 +150,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 77854599}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1804497585}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &77854601
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 77854599}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65b465ecce8562c46a0b3b315d0ad172, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colourChangeDelay: 0.5
 --- !u!483693784 &77854602
 TilemapRenderer:
   m_ObjectHideFlags: 0
@@ -1363,6 +1350,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &77854607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77854599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 388be4da18ef5584e9633d66623f2aa4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tileBase:
+  - {fileID: 11400000, guid: 3d93ae99e4ef1b342bc76037cc88bb96, type: 2}
+  - {fileID: 11400000, guid: b883d4f4a6c04e04eae0781e114305e3, type: 2}
+  - {fileID: 11400000, guid: 476f3d6e80f4c26468bfadaebfae8647, type: 2}
 --- !u!1 &112040480
 GameObject:
   m_ObjectHideFlags: 0
