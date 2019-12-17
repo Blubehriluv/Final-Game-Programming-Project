@@ -63,8 +63,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ChangeColor.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\MoreMovement.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\State Machine\AI.cs" />
+    <Compile Include="Assets\Scripts\State Machine\FirstState.cs" />
+    <Compile Include="Assets\Scripts\State Machine\SecondState.cs" />
+    <Compile Include="Assets\Scripts\State Machine\StateMachine.cs" />
     <Compile Include="Assets\Scripts\TryChange.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/taymcken/Documents/GitHub/Final-Game-Programming-Project/Stealth Painter/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
